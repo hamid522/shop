@@ -6,7 +6,13 @@
 @import 'variables';
 
 // Bootstrap
-@import '~bootstrap/scss/bootstrap';
+// @import '~bootstrap/scss/bootstrap';
+
+//bulma
+@import '~bulma/bulma.sass';
+//import custom scc file's
+@import 'style.scss';
+@import 'style2.scss';
 
 .navbar-laravel {
   background-color: #fff;
