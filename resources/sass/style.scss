@@ -1,16 +1,56 @@
 /* style.scss is here  */
-
-body
+.navbar-digikala-header
 {
-  background: red;
+  margin-right: auto;
+margin-left: auto;
+padding-right: 15px;
+padding-left: 15px;
+width: 100%;
+min-width: 1009px;
+max-width: 1676px;
+flex-wrap: wrap;
+margin-right: 0;
+margin-left: 0;
+height: 75px;
+position: relative;
+padding: 18px 0;
+z-index: 100 !important;
 }
-.button
-{
-  padding: 20px !important;
-}
 
-.is-danger
+.control.has-icons-left .icon.is-left {
+
+        border-top-left-radius: 5px;
+        border-bottom-left-radius: 5px;
+
+}
+.dk-serachbox
 {
-  background: yellow !important;
-  color: black !important;
+  width: 400px;
+  margin-right: 130px;
+
+}
+.is-dk-red
+{
+  background-color: #ef5661;
+  color: #ffffff;
+}
+.is-dk-green
+{
+  background-color: #00bfd6;
+  border-color: #00bfd6;
+  color: #ffffff;
+}
+.navbar-menu-dk
+{
+
+  background-color: #616161 !important;
+  height: 40px !important;
+  width: 100% !important;
+}
+.dk-navbar-dropdown{
+  text-align: center;
+}
+.dk-menu-items
+{
+    color: white !important;
 }

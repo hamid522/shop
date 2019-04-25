@@ -9,10 +9,14 @@
 // @import '~bootstrap/scss/bootstrap';
 
 //bulma
-@import '~bulma/bulma.sass';
+@import '~bulma-rtl/bulma-rtl.sass';
 //import custom scc file's
 @import 'style.scss';
-@import 'style2.scss';
+// import font awesome
+@import '~@fortawesome/fontawesome-free/scss/fontawesome';
+@import '~@fortawesome/fontawesome-free/scss/regular';
+@import '~@fortawesome/fontawesome-free/scss/solid';
+@import '~@fortawesome/fontawesome-free/scss/brands';
 
 .navbar-laravel {
   background-color: #fff;

@@ -24,6 +24,9 @@
         "vue-template-compiler": "^2.6.10"
     },
     "dependencies": {
-        "bulma": "^0.7.4"
+        "@fortawesome/fontawesome-free": "^5.8.1",
+        "bulma": "^0.7.4",
+        "bulma-rtl": "^0.7.1",
+        "font-awesome": "^4.7.0"
     }
 }

@@ -81,17 +81,17 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    My Name Is Hamid Sajadian
+                  Wellcome To Digikala
                 </div>
 
                 <div class="links">
-                    <a class="button is-danger" href="https://laravel.com/docs">Docs</a>
-                    <a class="button is-danger" href="https://laracasts.com">Laracasts</a>
-                    <a class="button is-danger" href="https://laravel-news.com">News</a>
-                    <a class="button is-danger" href="https://blog.laravel.com">Blog</a>
-                    <a class="button is-danger" href="https://nova.laravel.com">Nova</a>
-                    <a class="button is-danger" href="https://forge.laravel.com">Forge</a>
-                    <a class="button is-danger" href="https://github.com/laravel/laravel">GitHub</a>
+                    <a class="button is-success" href="https://laravel.com/docs">Docs</a>
+                    <a class="button is-success" href="https://laracasts.com">Laracasts</a>
+                    <a class="button is-success" href="https://laravel-news.com">News</a>
+                    <a class="button is-success" href="https://blog.laravel.com">Blog</a>
+                    <a class="button is-success" href="https://nova.laravel.com">Nova</a>
+                    <a class="button is-success" href="https://forge.laravel.com">Forge</a>
+                    <a class="button is-success" href="https://github.com/laravel/laravel">GitHub</a>
                 </div>
             </div>
         </div>
