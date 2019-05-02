@@ -10686,6 +10686,23 @@ label.panel-block:hover {
   color: white !important;
 }
 
+.dk-product {
+  background-color: #fff;
+  box-shadow: 0 12px 12px 0 rgba(181, 181, 181, 0.11);
+  border: 1px solid #e4e4e4;
+  display: inline-flex;
+  width: 100%;
+}
+
+.dk-product-card {
+  border: none;
+  box-shadow: none;
+}
+
+.dk-card-product-title {
+  text-align: center;
+}
+
 /*!
  * Font Awesome Free 5.8.1 by @fontawesome - https://fontawesome.com
  * License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)

@@ -12,4 +12,8 @@
 */
 
 //landing page
-Route::get('/','LandingPageController@index');
+Route::get('/','LandingPageController@index')->name('landing-page');
+
+// products
+Route::get('/products','ShopController@index')->name('shop');
+Route::get('/products/{products}','ShopController@show')->name('shop.show');

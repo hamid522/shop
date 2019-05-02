@@ -12,12 +12,13 @@
 </head>
 
 <body>
-  {{-- header of application--}}
   @include('layouts.landing-header')
+
   <div class="container">
-    @yield('products')
+    {{-- header of application--}}
+    @yield('product-details')
   </div>
 
-  <script src="js/scripts.js"></script>
+<script src="js/scripts.js"></script>
 </body>
 </html>

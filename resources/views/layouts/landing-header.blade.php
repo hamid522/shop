@@ -1,6 +1,6 @@
 <nav class="navbar navbar-digikala-header" role="navigation" aria-label="main navigation">
   <div class="navbar-brand">
-    <a class="navbar-item" href="https://bulma.io">
+    <a class="navbar-item" href="{{url('/')}}">
       <img src="https://www.digikala.com/static/files/ddcba6ed.svg" width="112" height="28">
     </a>
 
